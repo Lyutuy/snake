@@ -16,11 +16,11 @@ namespace app_snake
             Point p2 = new Point(4, 5, '#');
             p2.Draw();
 
-            
+            HorizontalLine line = new HorizontalLine(5, 10, 8, '$');
+            line.Drow();
 
-            List<Point> pList = new List<Point>();
-            pList.Add(p1);
-            pList.Add(p2);
+            VerticalLine vLine = new VerticalLine(5, 10, 4, '$');
+            vLine.Drow();
 
             Console.ReadLine();
         }
