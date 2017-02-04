@@ -1,0 +1,6 @@
+G:\CreateSite\git\snake\app_snake\app_snake\bin\Release\app_snake.exe.config
+G:\CreateSite\git\snake\app_snake\app_snake\bin\Release\app_snake.exe
+G:\CreateSite\git\snake\app_snake\app_snake\bin\Release\app_snake.pdb
+G:\CreateSite\git\snake\app_snake\app_snake\obj\Release\app_snake.exe
+G:\CreateSite\git\snake\app_snake\app_snake\obj\Release\app_snake.pdb
+G:\CreateSite\git\snake\app_snake\app_snake\obj\Release\app_snake.csprojResolveAssemblyReference.cache
