@@ -9,7 +9,7 @@ namespace app_snake
     enum Direction
     {
         LEFT,
-        RIGTH,
+        RIGHT,
         UP,
         DOWN
     }
