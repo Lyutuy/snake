@@ -8,7 +8,7 @@ namespace app_snake
 {
     class Snake : Figure
     {
-        Direction direction;
+        public Direction direction;
 
         //Position of a snake
         public Snake(Point tail, int lenght, Direction _direction)
